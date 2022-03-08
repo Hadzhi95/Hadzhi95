@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hadzhi!
 
-## I'm a FrontEnd Developer
+## I'm a JavaScript Developer
 - ⚡ I'm fond of calligrafy
 - 🎉 My favourite pastime is reading
 - 🥅 I am constantly learning new things
